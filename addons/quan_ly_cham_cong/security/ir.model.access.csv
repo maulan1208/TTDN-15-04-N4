@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_nhan_su,nhan_su.nhan_su,model_nhan_su,base.group_user,1,1,1,1
+access_cham_cong,cham_cong.cham_cong,model_cham_cong,base.group_user,1,1,1,1
