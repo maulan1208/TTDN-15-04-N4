@@ -10,6 +10,8 @@
                         <div class="oe_read_only" style="font-size:25px">Nhân viên</div>
                         <group col="4" string="Thông tin chung">
                             <field name="ma_dinh_danh"/>
+                            <field name="ho_ten_dem"/>
+                            <field name="ten"/>
                             <field name="ho_va_ten"/>
                             <field name="ngay_sinh"/>
                             <field name="que_quan"/>
@@ -26,6 +28,8 @@
             <field name="arch" type="xml">
                 <tree>
                     <field name="ma_dinh_danh"/>
+                    <field name="ho_ten_dem"/>
+                    <field name="ten"/>
                     <field name="ho_va_ten"/>
                     <field name="ngay_sinh"/>
                     <field name="que_quan"/>
@@ -39,6 +43,8 @@
             <field name="arch" type="xml">
                 <search>
                     <field name="ma_dinh_danh"/>
+                    <field name="ho_ten_dem"/>
+                    <field name="ten"/>
                     <field name="ho_va_ten"/>
                     <field name="ngay_sinh"/>
                     <field name="que_quan"/>

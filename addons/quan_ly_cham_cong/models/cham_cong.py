@@ -5,7 +5,7 @@ class ChamCong(models.Model):
     _name = 'cham_cong'
     _description = 'Bảng chứa thông tin chấm công'
 
-    nhan_su_id = fields.Many2one("nhan_su", string= "Nhân sự", required=True)
+    nhan_vien_id = fields.Many2one("nhan_su.nhan_vien", string= "Nhân viên", required=True)
     ngay_lam_viec = fields.Date("Ngày làm việc", required = True)
     gio_vao = fields.Datetime(string="Giờ vào")
     gio_ra = fields.Datetime(string="Giờ ra")

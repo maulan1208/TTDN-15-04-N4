@@ -9,7 +9,7 @@
                     <sheet>
                         <div class="oe_read_only" style="font-size:25px">Chấm công</div>
                         <group col="4" string="Thông tin chung">
-                            <field name="nhan_su_id"/>
+                            <field name="nhan_vien_id"/>
                             <field name="ngay_lam_viec"/>
                             <field name="gio_vao"/>
                             <field name="gio_ra"/>
@@ -25,7 +25,7 @@
             <field name="model">cham_cong</field>
             <field name="arch" type="xml">
                 <tree>
-                    <field name="nhan_su_id"/>
+                    <field name="nhan_vien_id"/>
                     <field name="ngay_lam_viec"/>
                     <field name="gio_vao"/>
                     <field name="gio_ra"/>
@@ -38,7 +38,7 @@
             <field name="model">cham_cong</field>
             <field name="arch" type="xml">
                 <search>
-                    <field name="nhan_su_id"/>
+                    <field name="nhan_vien_id"/>
                     <field name="ngay_lam_viec"/>
                     <field name="gio_vao"/>
                     <field name="gio_ra"/>

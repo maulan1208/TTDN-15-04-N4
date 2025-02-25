@@ -6,16 +6,16 @@
             name="QLCC"
             sequence="0"/>
           
-        <menuitem name="Quản lý nhân sự" 
+        <!-- <menuitem name="Quản lý nhân sự" 
             id="menu_nhan_su" 
             parent="menu_root" 
             sequence="1"
             action="action_nhan_su"
-        />
+        /> -->
         <menuitem name="Quản lý chấm công" 
             id="menu_cham_cong" 
             parent="menu_root" 
-            sequence="2"
+            sequence="1"
             action="action_cham_cong"
         />
     </data>
