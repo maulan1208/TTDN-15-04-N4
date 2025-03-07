@@ -80,4 +80,23 @@ python3 odoo-bin.py -c odoo.conf -u all
 Người sử dụng truy cập theo đường dẫn _http://localhost:8069/_ để đăng nhập vào hệ thống.
 
 Hoàn tất
-    
+
+#5 DEMO
+1. chấm công
+![image](https://github.com/user-attachments/assets/856b245b-6946-46e3-a710-f7a20f7da9fc)
+![image](https://github.com/user-attachments/assets/4bf49e18-a6d6-4e57-9b5e-c860775314ef)
+
+2. Lịch làm nhân viên
+![image](https://github.com/user-attachments/assets/5403b481-f7a2-47aa-8683-1d547f19f298)
+![image](https://github.com/user-attachments/assets/300f138e-4fe1-4627-a0e5-daa8bbe0e4e1)
+
+3. Đơn xin phép
+![image](https://github.com/user-attachments/assets/780fcba2-0005-498c-84d2-8473521e4ec7)
+![image](https://github.com/user-attachments/assets/d4a6c2eb-0e8f-4de7-abae-6745af1a9217)
+
+4. Thông kê
+(Bảng thống kê sẽ tự động cập nhật khi có thông tin mới) 
+![image](https://github.com/user-attachments/assets/9c82bb88-ba6f-485f-a51e-833460165eae)
+
+
+
