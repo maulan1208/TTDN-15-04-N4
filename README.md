@@ -8,6 +8,8 @@
 
 
 # 1. ĐỀ TÀI: QUẢN LÝ CHẤM CÔNG
+Hệ thống quản lý chấm công giúp doanh nghiệp theo dõi và quản lý thời gian làm việc của nhân viên một cách chính xác và hiệu quả. Hệ thống này hỗ trợ ghi nhận giờ vào – giờ ra, kiểm soát đi trễ, quản lý lịch làm việc và xử lý đơn xin nghỉ của nhân viên.
+
 Các chức năng trong Quản lý chấm công: Chấm công, Lịch làm việc nhân viên, Đơn xin nghỉ/muộn, Thống kê
 
 1.1. Chấm công
